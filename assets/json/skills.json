@@ -1,0 +1,59 @@
+{
+  "skills": [
+    {
+      "category": "Graphics",
+      "skills": [
+        {
+          "name": "Canva",
+          "experience": "Experienced"
+        }
+      ]
+    },
+    {
+      "category": "Web Design",
+      "skills": [
+        {
+          "name": "Wix",
+          "experience": "Experienced"
+        },
+        {
+          "name": "Wordpress (Elementor Page Builder",
+          "experience": "Experienced"
+        }
+      ]
+    },
+    {
+      "category": "SEO Devs / Optimization / Technical",
+      "skills": [
+        {
+          "name": "Google Search Consol",
+          "experience": "Experienced"
+        },
+        {
+          "name": "Google Analytics",
+          "experience": "Experienced"
+        },
+        {
+          "name": "Semrush (Technical)",
+          "experience": "Intermediate"
+        },
+        {
+          "name": "ahrefs (Technical)",
+          "experience": "Experienced"
+        },
+        {
+          "name": "ScreamingFrog",
+          "experience": "Experienced"
+        },
+        {
+          "name": "Quillbot and Grammarly",
+          "experience": "Experienced"
+        },
+        {
+          "name": "Yoast",
+          "experience": "Experienced"
+        }
+      ]
+    }
+  ]
+}
